@@ -1,9 +1,9 @@
 <img src="https://github.com/iamvanshh/iamvanshh/blob/main/bannermyv.jpg?raw=true">
 
-#💫 About Me:
+<h1>💫 About Me:</h1>
 👋 Heyy there I'm Vansh<br>👀 I’m interested in stuff how computer works<br>📕  I’m currently learning DSA using C language<br>💻 I'm doing B.tech in Computer Science <br>🐱‍💻 I'm also interested in Ethical Hacking :)<br>
 
-## 🌐 Socials:
+## <h1>🌐 Socials:</h1>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/xo.vinni_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/iamvanshh/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/iamvanshh_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCabZRrvkmbPTe4cGYov0BoA) 
 
 # 💻 Tech Stack:
